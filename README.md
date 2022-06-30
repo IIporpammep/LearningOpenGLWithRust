@@ -1,0 +1,1 @@
+Learning OpenGL With Rust by following [Joey de Vries](https://twitter.com/JoeyDeVriez)'s https://learnopengl.com/ and using [Benjamin Wasty](https://github.com/bwasty)'s [Rust Port of LearnOpenGl](https://github.com/bwasty/learn-opengl-rs) as reference when I'm stuck on some problem for a long period of time.
